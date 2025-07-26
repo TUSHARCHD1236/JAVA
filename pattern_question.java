@@ -139,6 +139,7 @@ public class pattern_question {
           0 1 0 1
           1 0 1 0 1
          */
+    /*
         int num=1;
         for(int i=1;i<=5;i++)
         {
@@ -157,3 +158,4 @@ public class pattern_question {
         }
     }
 }
+*/
